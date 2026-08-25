@@ -88,20 +88,13 @@
 
 <div align="center">
 
-<img height="180em" src="https://github-readme-stats.vercel.app/api?username=prachi-1arch&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=0ea5e9&icon_color=d946ef&text_color=c9d1d9" />
-<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=prachi-1arch&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=0ea5e9&text_color=c9d1d9" />
-
 <br><br>
 
 <img src="https://github-readme-streak-stats.herokuapp.com/?user=prachi-1arch&theme=tokyonight&hide_border=true&background=0D1117&stroke=0ea5e9&ring=d946ef&fire=ff6b6b&currStreakLabel=0ea5e9&sideLabels=c9d1d9&currStreakNum=c9d1d9&dates=8b949e" />
 
 <br><br>
 
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=prachi-1arch&theme=tokyo-night&hide_border=true&bg_color=0D1117&color=0ea5e9&line=d946ef&point=ff6b6b" />
-
 </div>
-
----
 
 ## Featured Projects
 
